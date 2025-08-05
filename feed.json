@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Praktische wijsheid",
+    "description": "",
+    "home_page_url": "https://lucasbeer.github.io/praktischewijsheid",
+    "feed_url": "https://lucasbeer.github.io/praktischewijsheid/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Lucas"
+    },
+    "items": [
+    ]
+}
